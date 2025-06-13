@@ -1,4 +1,4 @@
 bin/
-.idea/
-out/
+**/.idea/
+**/out/
 *.class
